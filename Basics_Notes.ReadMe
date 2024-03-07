@@ -6,8 +6,13 @@ Tags: opening tag <tagname>  </tagname>
 
 #Element with No Closing Tags
 <img src="localtion.jgp"> 
+<br> Line Break Tag
+<hr> Horizontal List Tag.
 
-## HtML BoilerPlate Code
+
+## HtML BoilerPlate Code , VS Code Automatic: !Enter:  or Shortcuts [ html:5 ] Enter
+#How Auto Completion: VS Code, Emmet Plugin toolkit: google emmet .
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -16,6 +21,44 @@ Tags: opening tag <tagname>  </tagname>
     <title>Document</title>
 </head>
 <body>
-    
+    <h1>Top Heading</h1>
+    <h2> Sub Heading </h2>
+    #Copy whole line using , Mac [ Option + Shift + Down Arrow Key ] 
 </body>
 </html>
+
+# VS Code, Special Text Editor, Auto Recomendation, Auto-Completion
+
+# Download VS Code. 
+# Download Extensions: Emmet, Prettier Code Formatter, Extention: Indentation, 
+Indent unformatted code: VS Code--> Settings---> Command Pallete---> Search [ Format Document ]
+
+#Take Help From Web: MDN Ref : 
+# HTML Entities : Reserved Keywords to be displayed.
+
+#Display in VS Code
+lorem100 : Create 100 words paragraph. --> Now Word Wrap to display within one screen
+
+<b> </b>Tag : bold = <strong> </strong>
+<i> Italic Tag = <em> </em> : Italic. 
+<small> Make letter small</small>
+10**2 :  <p>10<sup>2</sup></p> #SuperSccript
+10log2 : <p>10<sub>2</sub></p>  #SubScript
+<!== Comments =>
+
+<ol>  or <ol type="A" or 'a' , '1', "i" > 
+    <li>List Item from Ordered List</li>
+</ol>
+
+## Unordered List
+<ul> 
+    <li> First </li>
+</ul>
+
+# <hr> Tag : Horizantal Line. 
+
+## Nesting of Lists. 
+
+
+
+

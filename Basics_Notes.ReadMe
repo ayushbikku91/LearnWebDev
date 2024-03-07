@@ -1,0 +1,9 @@
+HTML : Hyper text Markup Language.
+Tags: opening tag <tagname>  </tagname>
+
+# HTML Element.
+<tagname> Contents/Text </tagName>
+
+#Element with No Closing Tags
+<img src="localtion.jgp"> 
+

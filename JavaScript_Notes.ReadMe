@@ -6,8 +6,13 @@
 
 alert("Hello India")   #Give Pop on screen. 
 
-#2 Print on Console. 
+#2 Use to log(print) a message to the console. 
 
 console.log("Ayush Parth");
   o/p: Ayush Parth
 
+#Connect Js file to browser to display. 
+Use html file to connect js to webbrowser. 
+
+#Variable in JS
+Variables are containers for data. 

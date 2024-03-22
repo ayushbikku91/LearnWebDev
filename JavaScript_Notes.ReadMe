@@ -1,0 +1,13 @@
+#Run Java Script Code in Chrome. 
+# Open Chrome --> Inspect Element --> Console --> 
+#Clear Inspect Console : Ctrl + K 
+
+#1st Js Code. 
+
+alert("Hello India")   #Give Pop on screen. 
+
+#2 Print on Console. 
+
+console.log("Ayush Parth");
+  o/p: Ayush Parth
+
